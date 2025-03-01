@@ -1,5 +1,5 @@
 # shopping_card
-A modern and user-friendly shopping list app built with Flutter. This app helps users create and manage shopping lists efficiently by organizing items into markets and categories. It provides a simple, intuitive interface and ensures data persistence using SQLite. 
+A modern and user-friendly shopping list app built with Flutter. This project was assigned by our teacher as part of learning Flutter development, helping us understand app structure, state management, and database integration.
 
 
 **Features** 
@@ -15,6 +15,19 @@ A modern and user-friendly shopping list app built with Flutter. This app helps 
 ✅ Favorites List – Mark frequently bought items as favorites for quick access.
 
 ✅ User-Friendly Interface – Designed with a clean UI, making navigation easy and intuitive.
+
+
+**Project Background**
+This project was given by our teacher at EPISEN - UPEC Paris, France, as part of our Flutter learning journey. The goal is to build a fully functional shopping list app while understanding:
+
+Flutter navigation & UI design
+
+State management techniques
+
+Database integration
+
+Working with user data and preferences
+
 
 **Installation** 
 
