@@ -1,0 +1,85 @@
+name: shopping_card
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  image_picker: ^1.1.2
+  path: ^1.9.0
+  path_provider: ^2.1.5
+  shared_preferences: ^2.3.3
+  sqflite: ^2.4.1
+  sqflite_common_ffi: ^2.3.4+3
+  sqflite_common_ffi_web: ^0.4.5+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/shopping-list.png
+    - images/shopping-list_outline.png
+    - images/icons/plus.png
+    - images/icons/image.png
+    - images/icons/camera.png
+    - images/icons/plus_cl.png
+    - images/icons/angle-left.png
+    - images/icons/boy.png
+    - images/icons/businessman.png
+    - images/icons/cross.png
+    - images/icons/edit.png
+    - images/icons/feed.png
+    - images/icons/files.png
+    - images/icons/girl.png
+    - images/icons/hijab-girl.png
+    - images/icons/home.png
+    - images/icons/reminder.png
+    - images/icons/star_cl.png
+    - images/icons/star.png
+    - images/icons/student.png
+    - images/icons/trash_cl.png
+    - images/icons/trash.png
+    - images/icons/user.png
+    - images/icons/woman.png
+    - images/icons/play.png
+    - images/app_bg3.jpg
+    - images/bg_op2.jpg
+    - images/bg_op3.jpg
+    - images/bg_op4.jpg
+    - images/bg_op5.jpg
+    - images/bg_op6.jpg 
+    - images/bg_op7.jpg
+    - images/diary_bg.jpg
+    - images/fruits_bg.jpg
+    - images/market1_bg.jpg
+    - images/meat_bg.jpg
+    - images/sweets1.jpg
+    - images/vegies_bg.jpg
+    - images/fashion.jpeg
+
+  fonts:
+    - family: Mogra
+      fonts: 
+      - asset: fonts/Mogra-Regular.ttf
+    - family: Rasa
+      fonts: 
+      - asset: fonts/Rasa-Medium.ttf
+      - asset: fonts/Rasa-SemiBold.ttf
+        weight: 500
+      - asset: fonts/Rasa-SemiBoldItalic.ttf
+        weight: 500
+        style: italic
+      - asset: fonts/Rasa-BoldItalic.ttf
+        style: italic
+        weight: 900
