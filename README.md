@@ -18,6 +18,7 @@ A modern and user-friendly shopping list app built with Flutter. This project wa
 
 
 **Project Background**
+
 This project was given by our teacher at EPISEN - UPEC Paris, France, as part of our Flutter learning journey. The goal is to build a fully functional shopping list app while understanding:
 
 Flutter navigation & UI design
@@ -33,16 +34,16 @@ Working with user data and preferences
 
 1. Clone the Repository
 
-Run this command in Git Bash or your terminal:
-git clone https://github.com/toumidouniaz/flutter-shopping-app.git
+    Run this command in Git Bash or your terminal:
+  git clone https://github.com/toumidouniaz/flutter-shopping-app.git
 
 3. Navigate into the Project Folder
-cd flutter-shopping-list
+    cd flutter-shopping-list
 
 4. Install Dependencies
 
-Ensure you have Flutter installed, then run:
-flutter pub get
+    Ensure you have Flutter installed, then run:
+  flutter pub get
 
 **Project Structure**
 
